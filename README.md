@@ -13,6 +13,8 @@ I take no responsibility or liability for any code and files available here. By 
 Must be extracted and copied manually currently.
 Copy to plugins directory in XCP-ng Center installation path.
 
+Might require to install Dotnet v4.8.
+
 Example:
 ```
 C:\Program Files (x86)\XCP-ng Center\Plugins\xcp-ng.org\xcpng.GuestToolsReport\xcpng.GuestToolsReport.exe
